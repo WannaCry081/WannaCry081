@@ -3,6 +3,8 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hello%20World!%2C+I'm+Lirae!+🤖;I'm+from+the+Philippines.+✌🏻;I'm+a+Full+Stack+Developer.+👨🏻‍💻)
 
+[![](https://visitcount.itsvg.in/api?id=WannaCry081&icon=0&color=4)](https://visitcount.itsvg.in)
+
 </div> 
 
 ## Languages and Tools  
@@ -18,7 +20,6 @@
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
 <a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
@@ -47,4 +48,10 @@
 
 </td></tr></table>  
 
-[![](https://visitcount.itsvg.in/api?id=WannaCry081&icon=0&color=4)](https://visitcount.itsvg.in)
+## Github Contribution
+
+<div align="center" width="100%">
+
+![Alt text](assets/image.png)
+
+</div>
