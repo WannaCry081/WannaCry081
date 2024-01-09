@@ -82,7 +82,7 @@
 
 <div align="center" width="100%">
 
-<img src="https://raw.githubusercontent.com/WannaCry081/WannaCry081/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/WannaCry081/WannaCry081/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
