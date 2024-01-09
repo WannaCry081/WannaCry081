@@ -82,7 +82,7 @@
 
 <div align="center" width="100%">
 
-![Snake animation](https://github.com/WannaCry081/WannaCry081/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/wannacry081/wannacry081/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
