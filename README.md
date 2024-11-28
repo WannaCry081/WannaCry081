@@ -2,8 +2,6 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hello%20World!%2C+I'm+Lirae!+🤖;I'm+from+the+Philippines.+✌🏻;I'm+a+Full+Stack+Software+Engineer.+👨🏻‍💻)
 
-[![](https://visitcount.itsvg.in/api?id=WannaCry081&icon=0&color=4)](https://visitcount.itsvg.in)
-
 </div>
 
 ## 🚀 Languages and Tools 
@@ -80,4 +78,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WannaCry081&theme=dracula&hide_border=true&include_all_commits=false&count_private=false&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>
+</div>
+
+<div align="center">
+
+[![](https://visitcount.itsvg.in/api?id=WannaCry081&icon=0&color=4)](https://visitcount.itsvg.in)
+
 </div>
