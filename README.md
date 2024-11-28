@@ -4,7 +4,7 @@
 
 </div>
 
-## 🚀 Languages and Tools 
+## 🚀 Tech Stacks
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="45" alt="android logo"  />
