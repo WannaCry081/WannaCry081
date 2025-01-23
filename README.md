@@ -1,6 +1,6 @@
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hello%20World!%2C+I'm+Lirae!+🤖;I'm+from+the+Philippines.+✌🏻;II'm+a+Full+Stack+Software+Engineer.+👨🏻‍💻)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&height=40&lines=Hello%20World!%2C+I'm+Lirae!+🤖;I'm+from+the+Philippines.+✌🏻;I'm+a+Full+Stack+Software+Engineer.+👨🏻‍💻)
 
 </div>
 
